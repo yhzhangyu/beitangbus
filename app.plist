@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.5:8080/Expressway_web/ww.ipa</string>
+					<string>http://192.168.1.108:8080/Expressway_web/kfu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hollycrm.kefuapp</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>张宇的APP</string>
+				<string>沃服务</string>
 			</dict>
 		</dict>
 	</array>

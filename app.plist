@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.108:8080/Expressway_web/kfu.ipa</string>
+					<string>http://218.25.255.13:56330/unicom/upload_img/kfu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.iteye.com/upload/logo/user/521621/30f93d8d-bd63-32c6-8357-d3a4c127c228.jpg?1311220827%22</string>
+					<string>https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=57c6dbdb06f431adbcd2443f730dcb92/f636afc379310a555668e0bdbd4543a98226102e.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.iteye.com/upload/logo/user/521621/30f93d8d-bd63-32c6-8357-d3a4c127c228.jpg?1311220827%22</string>
+					<string>https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=57c6dbdb06f431adbcd2443f730dcb92/f636afc379310a555668e0bdbd4543a98226102e.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
